@@ -1,0 +1,10 @@
+
+/.idea/
+/consumer/target/
+/producer/target/
+/activemq2.log
+/activemq-consumer.log
+/activemq-producer.log
+/TestMQ.iml
+/producer/producer.iml
+/consumer/consumer.iml
